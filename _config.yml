@@ -1,0 +1,8 @@
+name: Felix Guerrero 
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed

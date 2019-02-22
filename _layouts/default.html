@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" href="/css/super-search.css">
+</head>
+
+<body>
+
+<nav>
+<ul>
+<li><a href="/">0x0000000</a></li>
+<li><a href="/about">0x000about</a></li>
+<li><a href="/blog">0x0000blog</a></li>
+<li><a href="/cv">0x000000cv</a></li>
+<li><a href="/0x00000lab">0x00000lab</a></li>
+</ul>
+    </nav>
+
+<div class="container">
+  {{ content }}
+</div>
+
+  <footer>
+   <ul>
+   <li><a href="mailto:felixguerrero12@gmail.com">email</a></li>
+   <li><a href="https://github.com/felixguerrero12">git://felixguerrero12</a></li>
+   <li><a href="https://twitter.com/nulloop">@nulloop</a></li>
+   </ul>
+  </footer>
+
+<div class="super-search" id="js-super-search">
+  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
+  <input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
+  <ul class="super-search__results" id="js-super-search__results"></ul>
+</div>
+
+ <script src="/js/super-search.js"></script>
+ <script>superSearch({
+ 	searchFile: '/blog/atom.xml'
+ });</script>
+
+</body>
+
+</html>
