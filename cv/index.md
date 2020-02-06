@@ -14,6 +14,7 @@ For longer pdf version of the resume : [Resume]({{ site.url }}/cv/latest/felix_l
 
 
 ## Professional Experience History
+[Blackberry](https://www.blackberry.com/us/en) | _Red Team Consultant_ | Oct 2019 - Current <br/>
 [Salesforce](https://www.salesforce.com/) | _Senior Incident Response Handler_ | Feb 2018 - June 2019 <br/>
 [MKACyber](https://mkacyber.com/) | _Senior Security Analyst_ | December 2016 - December 2017 <br/>
 [RH2RU](https://rangers-happen-2-ride-unicorns.github.io/) | _Team Captain & Web Pentester lead_ |
@@ -25,11 +26,16 @@ September 2016 - Present <br/>
 
 Education
 ----------
+[Memory Forensics - Volatility](https://www.memoryanalysis.net/memory-forensics-training), Dallas, TX | _January 2020_
+<br />
+
 [Towson University](http://www.towson.edu), Towson, MD | _June 2013 - June 2016_
 <br />Bachelor of Science in Information Technology
 
 [The Community College of Baltimore County](http://www.ccbcmd.edu), Catonsville, MD | _Jan 2010 - Jun 2013_
 <br />Associate of Science in Information System Security
+
+
 
 ## Volunteer
 
