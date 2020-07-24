@@ -2,7 +2,7 @@
 layout: default
 title: "0x1337"
 ---
-For longer pdf version of the resume : [Resume]({{ site.url }}/cv/latest/felix_latest.pdf)
+For longer pdf version of the resume : [Resume]({{ site.url }}/cv/latest/Felix-1.pdf)
 
 ## Certifications
 + Offensive Security Certified Expert (OSCE) : Aug 2018
